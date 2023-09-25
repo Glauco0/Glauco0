@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Glauco Laurent Gonçalves Santos</h1>
-<h3 align="center">Eu sou interesado na de Layouts Front-end e</h3>
+<h3 align="center">Eu sou interesado na criação de sites e aplicativos</h3>
 
 - 🔭 oi Estou trabalhando com um site de web responsiva e moderna [Porject Bootstrap](https://projeto-bootstrap-pi.vercel.app/)
 
